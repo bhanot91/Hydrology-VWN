@@ -1,0 +1,637 @@
+Country1,Country1.Number,Country2,Country2.Number,Type
+Afghanistan,4,China,156,Geographic
+Afghanistan,4,Iran,364,Geographic
+Afghanistan,4,Pakistan,586,Geographic
+Afghanistan,4,Tajikistan,762,Geographic
+Afghanistan,4,Turkmenistan,795,Geographic
+Afghanistan,4,Uzbekistan,860,Geographic
+United Kingdom,826,Cyprus,196,Geographic
+Albania,8,Greece,300,Geographic
+Albania,8,Macedonia,807,Geographic
+Albania,8,Montenegro,499,Geographic
+Algeria,12,Libya,434,Geographic
+Algeria,12,Mali,466,Geographic
+Algeria,12,Morocco,504,Geographic
+Algeria,12,Mauritania,478,Geographic
+Algeria,12,Niger,562,Geographic
+Algeria,12,Tunisia,788,Geographic
+Algeria,12,Western Sahara,732,Geographic
+Andorra,20,France,251,Geographic
+Andorra,20,Spain,724,Geographic
+Angola,24,Democratic Republic of the Congo,180,Geographic
+Angola,24,Republic of the Congo,178,Geographic
+Angola,24,Namibia,516,Geographic
+Angola,24,Zambia,894,Geographic
+Argentina,32,Bolivia,68,Geographic
+Argentina,32,Brazil,76,Geographic
+Argentina,32,Chile,152,Geographic
+Argentina,32,Paraguay,600,Geographic
+Argentina,32,Uruguay,858,Geographic
+Armenia,51,Azerbaijan,31,Geographic
+Armenia,51,Georgia,268,Geographic
+Armenia,51,Iran,364,Geographic
+Armenia,51,Turkey,792,Geographic
+Austria,40,Czechia,203,Geographic
+Austria,40,Germany,276,Geographic
+Austria,40,Hungary,348,Geographic
+Austria,40,Italy,381,Geographic
+Austria,40,Switzerland,757,Geographic
+Austria,40,Slovakia,703,Geographic
+Austria,40,Slovenia,705,Geographic
+Austria,40,Switzerland,757,Geographic
+Azerbaijan,31,Armenia,51,Geographic
+Azerbaijan,31,Georgia,268,Geographic
+Azerbaijan,31,Iran,364,Geographic
+Azerbaijan,31,Russian Federation,643,Geographic
+Azerbaijan,31,Turkey,792,Geographic
+Bangladesh,50,Myanmar,104,Geographic
+Bangladesh,50,India,699,Geographic
+Belarus,112,Latvia,428,Geographic
+Belarus,112,Lithuania,440,Geographic
+Belarus,112,Poland,616,Geographic
+Belarus,112,Russian Federation,643,Geographic
+Belarus,112,Ukraine,804,Geographic
+Belgium,56,France,251,Geographic
+Belgium,56,Germany,276,Geographic
+Belgium,56,Luxembourg,442,Geographic
+Belgium,56,Netherlands,528,Geographic
+Belize,84,Guatemala,320,Geographic
+Belize,84,Mexico,484,Geographic
+Benin,204,Burkina Faso,854,Geographic
+Benin,204,Niger,562,Geographic
+Benin,204,Nigeria,566,Geographic
+Benin,204,Togo,768,Geographic
+Bhutan,64,China,156,Geographic
+Bhutan,64,India,699,Geographic
+Bolivia,68,Argentina,32,Geographic
+Bolivia,68,Brazil,76,Geographic
+Bolivia,68,Chile,152,Geographic
+Bolivia,68,Paraguay,600,Geographic
+Bolivia,68,Peru,604,Geographic
+Bosnia Herzegovina,70,Croatia,191,Geographic
+Bosnia Herzegovina,70,Montenegro,499,Geographic
+Bosnia Herzegovina,70,Serbia,688,Geographic
+Botswana,72,Namibia,516,Geographic
+Botswana,72,South Africa,710,Geographic
+Botswana,72,Zambia,894,Geographic
+Botswana,72,Zimbabwe,716,Geographic
+Brazil,76,Argentina,32,Geographic
+Brazil,76,Bolivia,68,Geographic
+Brazil,76,Colombia,170,Geographic
+Brazil,76,French Guiana,254,Geographic
+Brazil,76,Guyana,328,Geographic
+Brazil,76,Paraguay,600,Geographic
+Brazil,76,Peru,604,Geographic
+Brazil,76,Suriname,740,Geographic
+Brazil,76,Uruguay,858,Geographic
+Brazil,76,Venezuela,862,Geographic
+Brunei,96,Malaysia,458,Geographic
+Bulgaria,100,Greece,300,Geographic
+Bulgaria,100,Macedonia,807,Geographic
+Bulgaria,100,Romania,642,Geographic
+Bulgaria,100,Serbia,688,Geographic
+Bulgaria,100,Turkey,792,Geographic
+Burkina Faso,854,Benin,204,Geographic
+Burkina Faso,854,Côte d'Ivoire,384,Geographic
+Burkina Faso,854,Ghana,288,Geographic
+Burkina Faso,854,Mali,466,Geographic
+Burkina Faso,854,Niger,562,Geographic
+Burkina Faso,854,Togo,768,Geographic
+Myanmar,104,Bangladesh,50,Geographic
+Myanmar,104,China,156,Geographic
+Myanmar,104,India,699,Geographic
+Myanmar,104,Laos,418,Geographic
+Myanmar,104,Thailand,764,Geographic
+Burundi,108,Democratic Republic of the Congo,180,Geographic
+Burundi,108,Rwanda,646,Geographic
+Burundi,108,Tanzania,834,Geographic
+Cambodia,116,Laos,418,Geographic
+Cambodia,116,Thailand,764,Geographic
+Cambodia,116,Vietnam,704,Geographic
+Cameroon,120,Central African Republic,140,Geographic
+Cameroon,120,Chad,148,Geographic
+Cameroon,120,Republic of the Congo,178,Geographic
+Cameroon,120,Equatorial Guinea,226,Geographic
+Cameroon,120,Gabon,266,Geographic
+Cameroon,120,Nigeria,566,Geographic
+Canada,124,United States,842,Geographic
+Central African Republic,140,Cameroon,120,Geographic
+Central African Republic,140,Chad,148,Geographic
+Central African Republic,140,Democratic Republic of the Congo,180,Geographic
+Central African Republic,140,Republic of the Congo,178,Geographic
+Central African Republic,140,South Sudan,728,Geographic
+Central African Republic,140,Sudan,729,Geographic
+Chad,148,Cameroon,120,Geographic
+Chad,148,Central African Republic,140,Geographic
+Chad,148,Libya,434,Geographic
+Chad,148,Niger,562,Geographic
+Chad,148,Nigeria,566,Geographic
+Chad,148,Sudan,729,Geographic
+Chile,152,Argentina,32,Geographic
+Chile,152,Bolivia,68,Geographic
+Chile,152,Peru,604,Geographic
+China,156,Afghanistan,4,Geographic
+China,156,Bhutan,64,Geographic
+China,156,Myanmar,104,Geographic
+China,156,India,699,Geographic
+China,156,Kazakhstan,398,Geographic
+China,156,Democratic People's Republic of Korea,408,Geographic
+China,156,Kyrgyzstan,417,Geographic
+China,156,Laos,418,Geographic
+China,156,Mongolia,496,Geographic
+China,156,Nepal,524,Geographic
+China,156,Pakistan,586,Geographic
+China,156,Russian Federation,643,Geographic
+China,156,Tajikistan,762,Geographic
+China,156,Vietnam,704,Geographic
+Colombia,170,Brazil,76,Geographic
+Colombia,170,Ecuador,218,Geographic
+Colombia,170,Panama,591,Geographic
+Colombia,170,Peru,604,Geographic
+Colombia,170,Venezuela,862,Geographic
+Democratic Republic of the Congo,180,Angola,24,Geographic
+Democratic Republic of the Congo,180,Burundi,108,Geographic
+Democratic Republic of the Congo,180,Central African Republic,140,Geographic
+Democratic Republic of the Congo,180,Republic of the Congo,178,Geographic
+Democratic Republic of the Congo,180,Rwanda,646,Geographic
+Democratic Republic of the Congo,180,South Sudan,728,Geographic
+Democratic Republic of the Congo,180,Tanzania,834,Geographic
+Democratic Republic of the Congo,180,Uganda,800,Geographic
+Democratic Republic of the Congo,180,Zambia,894,Geographic
+Costa Rica,188,Nicaragua,558,Geographic
+Costa Rica,188,Panama,591,Geographic
+Côte d'Ivoire,384,Burkina Faso,854,Geographic
+Côte d'Ivoire,384,Ghana,288,Geographic
+Côte d'Ivoire,384,Guinea,324,Geographic
+Côte d'Ivoire,384,Liberia,430,Geographic
+Côte d'Ivoire,384,Mali,466,Geographic
+Croatia,191,Bosnia Herzegovina,70,Geographic
+Croatia,191,Hungary,348,Geographic
+Croatia,191,Montenegro,499,Geographic
+Croatia,191,Serbia,688,Geographic
+Croatia,191,Slovenia,705,Geographic
+Cyprus,196,United Kingdom,826,Geographic
+Cyprus,196,United Kingdom,826,Geographic
+Czechia,203,Austria,40,Geographic
+Czechia,203,Germany,276,Geographic
+Czechia,203,Poland,616,Geographic
+Czechia,203,Slovakia,703,Geographic
+Denmark,208,Germany,276,Geographic
+United Kingdom,826,Cyprus,196,Geographic
+Djibouti,262,Eritrea,232,Geographic
+Djibouti,262,Ethiopia,231,Geographic
+Djibouti,262,Somalia,706,Geographic
+Dominican Republic,214,Haiti,332,Geographic
+Ecuador,218,Colombia,170,Geographic
+Ecuador,218,Peru,604,Geographic
+Egypt,818,Israel,376,Geographic
+Egypt,818,Libya,434,Geographic
+Egypt,818,Sudan,729,Geographic
+El Salvador,222,Guatemala,320,Geographic
+El Salvador,222,Honduras,340,Geographic
+Equatorial Guinea,226,Gabon,266,Geographic
+Equatorial Guinea,226,Cameroon,120,Geographic
+Eritrea,232,Djibouti,262,Geographic
+Eritrea,232,Ethiopia,231,Geographic
+Eritrea,232,Sudan,729,Geographic
+Estonia,233,Latvia,428,Geographic
+Estonia,233,Russian Federation,643,Geographic
+Swaziland,748,Mozambique,508,Geographic
+Swaziland,748,South Africa,710,Geographic
+Ethiopia,231,Djibouti,262,Geographic
+Ethiopia,231,Eritrea,232,Geographic
+Ethiopia,231,Kenya,404,Geographic
+Ethiopia,231,Somalia,706,Geographic
+Ethiopia,231,South Sudan,728,Geographic
+Ethiopia,231,Sudan,729,Geographic
+Finland,246,Norway,579,Geographic
+Finland,246,Sweden,752,Geographic
+Finland,246,Russian Federation,643,Geographic
+France,251,Andorra,20,Geographic
+France,251,Belgium,56,Geographic
+France,251,Germany,276,Geographic
+France,251,Italy,381,Geographic
+France,251,Luxembourg,442,Geographic
+France,251,Spain,724,Geographic
+France,251,Switzerland,757,Geographic
+Gabon,266,Cameroon,120,Geographic
+Gabon,266,Republic of the Congo,178,Geographic
+Gabon,266,Equatorial Guinea,226,Geographic
+Gambia,270,Senegal,686,Geographic
+Georgia,268,Armenia,51,Geographic
+Georgia,268,Azerbaijan,31,Geographic
+Georgia,268,Russian Federation,643,Geographic
+Georgia,268,Turkey,792,Geographic
+Germany,276,Austria,40,Geographic
+Germany,276,Belgium,56,Geographic
+Germany,276,Czechia,203,Geographic
+Germany,276,Denmark,208,Geographic
+Germany,276,France,251,Geographic
+Germany,276,Luxembourg,442,Geographic
+Germany,276,Netherlands,528,Geographic
+Germany,276,Poland,616,Geographic
+Germany,276,Switzerland,757,Geographic
+Ghana,288,Burkina Faso,854,Geographic
+Ghana,288,Côte d'Ivoire,384,Geographic
+Ghana,288,Togo,768,Geographic
+Gibraltar,292,Spain,724,Geographic
+Greece,300,Albania,8,Geographic
+Greece,300,Bulgaria,100,Geographic
+Greece,300,Macedonia,807,Geographic
+Greece,300,Turkey,792,Geographic
+Guatemala,320,Belize,84,Geographic
+Guatemala,320,El Salvador,222,Geographic
+Guatemala,320,Honduras,340,Geographic
+Guatemala,320,Mexico,484,Geographic
+Guinea,324,Côte d'Ivoire,384,Geographic
+Guinea,324,Guinea-Bissau,624,Geographic
+Guinea,324,Liberia,430,Geographic
+Guinea,324,Mali,466,Geographic
+Guinea,324,Senegal,686,Geographic
+Guinea,324,Sierra Leone,694,Geographic
+Guinea-Bissau,624,Guinea,324,Geographic
+Guinea-Bissau,624,Senegal,686,Geographic
+Guyana,328,Brazil,76,Geographic
+Guyana,328,Suriname,740,Geographic
+Guyana,328,Venezuela,862,Geographic
+Haiti,332,Dominican Republic,214,Geographic
+Holy See (Vatican City State),336,Italy,381,Geographic
+Honduras,340,Guatemala,320,Geographic
+Honduras,340,El Salvador,222,Geographic
+Honduras,340,Nicaragua,558,Geographic
+Hungary,348,Austria,40,Geographic
+Hungary,348,Croatia,191,Geographic
+Hungary,348,Serbia,688,Geographic
+Hungary,348,Romania,642,Geographic
+Hungary,348,Slovakia,703,Geographic
+Hungary,348,Slovenia,705,Geographic
+Hungary,348,Ukraine,804,Geographic
+India,699,Bangladesh,50,Geographic
+India,699,Bhutan,64,Geographic
+India,699,Myanmar,104,Geographic
+India,699,China,156,Geographic
+India,699,Nepal,524,Geographic
+India,699,Pakistan,586,Geographic
+Indonesia,360,Malaysia,458,Geographic
+Indonesia,360,Papua New Guinea,598,Geographic
+Indonesia,360,Timor-Leste,626,Geographic
+Iran,364,Afghanistan,4,Geographic
+Iran,364,Armenia,51,Geographic
+Iran,364,Azerbaijan,31,Geographic
+Iran,364,Iraq,368,Geographic
+Iran,364,Pakistan,586,Geographic
+Iran,364,Turkey,792,Geographic
+Iran,364,Turkmenistan,795,Geographic
+Iraq,368,Iran,364,Geographic
+Iraq,368,Jordan,400,Geographic
+Iraq,368,Kuwait,414,Geographic
+Iraq,368,Saudi Arabia,682,Geographic
+Iraq,368,Syria,760,Geographic
+Iraq,368,Turkey,792,Geographic
+Ireland,372,United Kingdom,826,Geographic
+Israel,376,Egypt,818,Geographic
+Israel,376,Jordan,400,Geographic
+Israel,376,Lebanon,422,Geographic
+Israel,376,Syria,760,Geographic
+Italy,381,Austria,40,Geographic
+Italy,381,France,251,Geographic
+Italy,381,Holy See (Vatican City State),336,Geographic
+Italy,381,San Marino,674,Geographic
+Italy,381,Slovenia,705,Geographic
+Italy,381,Switzerland,757,Geographic
+Jordan,400,Iraq,368,Geographic
+Jordan,400,Israel,376,Geographic
+Jordan,400,Saudi Arabia,682,Geographic
+Jordan,400,Syria,760,Geographic
+Kazakhstan,398,China,156,Geographic
+Kazakhstan,398,Kyrgyzstan,417,Geographic
+Kazakhstan,398,Russian Federation,643,Geographic
+Kazakhstan,398,Turkmenistan,795,Geographic
+Kazakhstan,398,Uzbekistan,860,Geographic
+Kenya,404,Ethiopia,231,Geographic
+Kenya,404,Somalia,706,Geographic
+Kenya,404,South Sudan,728,Geographic
+Kenya,404,Tanzania,834,Geographic
+Kenya,404,Uganda,800,Geographic
+Democratic People's Republic of Korea,408,China,156,Geographic
+Democratic People's Republic of Korea,408,Republic of Korea,410,Geographic
+Democratic People's Republic of Korea,408,Russian Federation,643,Geographic
+Republic of Korea,410,Democratic People's Republic of Korea,408,Geographic
+Kuwait,414,Iraq,368,Geographic
+Kuwait,414,Saudi Arabia,682,Geographic
+Kyrgyzstan,417,China,156,Geographic
+Kyrgyzstan,417,Kazakhstan,398,Geographic
+Kyrgyzstan,417,Tajikistan,762,Geographic
+Kyrgyzstan,417,Uzbekistan,860,Geographic
+Laos,418,Myanmar,104,Geographic
+Laos,418,Cambodia,116,Geographic
+Laos,418,China,156,Geographic
+Laos,418,Thailand,764,Geographic
+Laos,418,Vietnam,704,Geographic
+Latvia,428,Belarus,112,Geographic
+Latvia,428,Estonia,233,Geographic
+Latvia,428,Lithuania,440,Geographic
+Latvia,428,Russian Federation,643,Geographic
+Lebanon,422,Israel,376,Geographic
+Lebanon,422,Syria,760,Geographic
+Lesotho,426,South Africa,710,Geographic
+Liberia,430,Guinea,324,Geographic
+Liberia,430,Côte d'Ivoire,384,Geographic
+Liberia,430,Sierra Leone,694,Geographic
+Libya,434,Algeria,12,Geographic
+Libya,434,Chad,148,Geographic
+Libya,434,Egypt,818,Geographic
+Libya,434,Niger,562,Geographic
+Libya,434,Sudan,729,Geographic
+Libya,434,Tunisia,788,Geographic
+Switzerland,757,Austria,40,Geographic
+Lithuania,440,Belarus,112,Geographic
+Lithuania,440,Latvia,428,Geographic
+Lithuania,440,Poland,616,Geographic
+Lithuania,440,Russian Federation,643,Geographic
+Luxembourg,442,Belgium,56,Geographic
+Luxembourg,442,France,251,Geographic
+Luxembourg,442,Germany,276,Geographic
+Malawi,454,Mozambique,508,Geographic
+Malawi,454,Tanzania,834,Geographic
+Malawi,454,Zambia,894,Geographic
+Malaysia,458,Brunei,96,Geographic
+Malaysia,458,Indonesia,360,Geographic
+Malaysia,458,Thailand,764,Geographic
+Mali,466,Algeria,12,Geographic
+Mali,466,Burkina Faso,854,Geographic
+Mali,466,Côte d'Ivoire,384,Geographic
+Mali,466,Guinea,324,Geographic
+Mali,466,Mauritania,478,Geographic
+Mali,466,Niger,562,Geographic
+Mali,466,Senegal,686,Geographic
+Mauritania,478,Algeria,12,Geographic
+Mauritania,478,Mali,466,Geographic
+Mauritania,478,Senegal,686,Geographic
+Mauritania,478,Western Sahara,732,Geographic
+Mexico,484,Belize,84,Geographic
+Mexico,484,Guatemala,320,Geographic
+Mexico,484,United States,842,Geographic
+Moldova,498,Romania,642,Geographic
+Moldova,498,Ukraine,804,Geographic
+Mongolia,496,China,156,Geographic
+Mongolia,496,Russian Federation,643,Geographic
+Montenegro,499,Albania,8,Geographic
+Montenegro,499,Bosnia Herzegovina,70,Geographic
+Montenegro,499,Croatia,191,Geographic
+Montenegro,499,Serbia,688,Geographic
+Morocco,504,Algeria,12,Geographic
+Morocco,504,Western Sahara,732,Geographic
+Morocco,504,Spain,724,Geographic
+Mozambique,508,Malawi,454,Geographic
+Mozambique,508,South Africa,710,Geographic
+Mozambique,508,Swaziland,748,Geographic
+Mozambique,508,Tanzania,834,Geographic
+Mozambique,508,Zambia,894,Geographic
+Mozambique,508,Zimbabwe,716,Geographic
+Namibia,516,Angola,24,Geographic
+Namibia,516,Botswana,72,Geographic
+Namibia,516,South Africa,710,Geographic
+Namibia,516,Zambia,894,Geographic
+Nepal,524,China,156,Geographic
+Nepal,524,India,699,Geographic
+Netherlands,528,Belgium,56,Geographic
+Netherlands,528,Germany,276,Geographic
+Nicaragua,558,Costa Rica,188,Geographic
+Nicaragua,558,Honduras,340,Geographic
+Niger,562,Algeria,12,Geographic
+Niger,562,Benin,204,Geographic
+Niger,562,Burkina Faso,854,Geographic
+Niger,562,Chad,148,Geographic
+Niger,562,Libya,434,Geographic
+Niger,562,Mali,466,Geographic
+Niger,562,Nigeria,566,Geographic
+Nigeria,566,Benin,204,Geographic
+Nigeria,566,Cameroon,120,Geographic
+Nigeria,566,Chad,148,Geographic
+Nigeria,566,Niger,562,Geographic
+Macedonia,807,Albania,8,Geographic
+Macedonia,807,Bulgaria,100,Geographic
+Macedonia,807,Greece,300,Geographic
+Macedonia,807,Serbia,688,Geographic
+Norway,579,Finland,246,Geographic
+Norway,579,Sweden,752,Geographic
+Norway,579,Russian Federation,643,Geographic
+Oman,512,Saudi Arabia,682,Geographic
+Oman,512,United Arab Emirates,784,Geographic
+Oman,512,Yemen,887,Geographic
+Pakistan,586,Afghanistan,4,Geographic
+Pakistan,586,China,156,Geographic
+Pakistan,586,India,699,Geographic
+Pakistan,586,Iran,364,Geographic
+Panama,591,Colombia,170,Geographic
+Panama,591,Costa Rica,188,Geographic
+Papua New Guinea,598,Indonesia,360,Geographic
+Paraguay,600,Argentina,32,Geographic
+Paraguay,600,Bolivia,68,Geographic
+Paraguay,600,Brazil,76,Geographic
+Peru,604,Bolivia,68,Geographic
+Peru,604,Brazil,76,Geographic
+Peru,604,Chile,152,Geographic
+Peru,604,Colombia,170,Geographic
+Peru,604,Ecuador,218,Geographic
+Poland,616,Belarus,112,Geographic
+Poland,616,Czechia,203,Geographic
+Poland,616,Germany,276,Geographic
+Poland,616,Lithuania,440,Geographic
+Poland,616,Russian Federation,643,Geographic
+Poland,616,Slovakia,703,Geographic
+Poland,616,Ukraine,804,Geographic
+Portugal,620,Spain,724,Geographic
+Qatar,634,Saudi Arabia,682,Geographic
+Romania,642,Bulgaria,100,Geographic
+Romania,642,Hungary,348,Geographic
+Romania,642,Moldova,498,Geographic
+Romania,642,Serbia,688,Geographic
+Romania,642,Ukraine,804,Geographic
+Russian Federation,643,Azerbaijan,31,Geographic
+Russian Federation,643,Belarus,112,Geographic
+Russian Federation,643,China,156,Geographic
+Russian Federation,643,Estonia,233,Geographic
+Russian Federation,643,Finland,246,Geographic
+Russian Federation,643,Georgia,268,Geographic
+Russian Federation,643,Kazakhstan,398,Geographic
+Russian Federation,643,Democratic People's Republic of Korea,408,Geographic
+Russian Federation,643,Latvia,428,Geographic
+Russian Federation,643,Lithuania,440,Geographic
+Russian Federation,643,Mongolia,496,Geographic
+Russian Federation,643,Norway,579,Geographic
+Russian Federation,643,Poland,616,Geographic
+Russian Federation,643,Ukraine,804,Geographic
+San Marino,674,Italy,381,Geographic
+Saudi Arabia,682,Iraq,368,Geographic
+Saudi Arabia,682,Jordan,400,Geographic
+Saudi Arabia,682,Kuwait,414,Geographic
+Saudi Arabia,682,Oman,512,Geographic
+Saudi Arabia,682,Qatar,634,Geographic
+Saudi Arabia,682,United Arab Emirates,784,Geographic
+Saudi Arabia,682,Yemen,887,Geographic
+Senegal,686,Gambia,270,Geographic
+Senegal,686,Guinea,324,Geographic
+Senegal,686,Guinea-Bissau,624,Geographic
+Senegal,686,Mali,466,Geographic
+Senegal,686,Mauritania,478,Geographic
+Serbia,688,Bosnia Herzegovina,70,Geographic
+Serbia,688,Bulgaria,100,Geographic
+Serbia,688,Croatia,191,Geographic
+Serbia,688,Macedonia,807,Geographic
+Serbia,688,Montenegro,499,Geographic
+Serbia,688,Romania,642,Geographic
+Serbia,688,Hungary,348,Geographic
+Sierra Leone,694,Guinea,324,Geographic
+Sierra Leone,694,Liberia,430,Geographic
+Slovakia,703,Austria,40,Geographic
+Slovakia,703,Czechia,203,Geographic
+Slovakia,703,Hungary,348,Geographic
+Slovakia,703,Poland,616,Geographic
+Slovakia,703,Ukraine,804,Geographic
+Slovenia,705,Austria,40,Geographic
+Slovenia,705,Croatia,191,Geographic
+Slovenia,705,Hungary,348,Geographic
+Slovenia,705,Italy,381,Geographic
+Somalia,706,Djibouti,262,Geographic
+Somalia,706,Ethiopia,231,Geographic
+Somalia,706,Kenya,404,Geographic
+South Africa,710,Botswana,72,Geographic
+South Africa,710,Lesotho,426,Geographic
+South Africa,710,Mozambique,508,Geographic
+South Africa,710,Namibia,516,Geographic
+South Africa,710,Swaziland,748,Geographic
+South Africa,710,Zimbabwe,716,Geographic
+South Sudan,728,Central African Republic,140,Geographic
+South Sudan,728,Democratic Republic of the Congo,180,Geographic
+South Sudan,728,Ethiopia,231,Geographic
+South Sudan,728,Kenya,404,Geographic
+South Sudan,728,Sudan,729,Geographic
+South Sudan,728,Uganda,800,Geographic
+Spain,724,Andorra,20,Geographic
+Spain,724,France,251,Geographic
+Spain,724,Gibraltar,292,Geographic
+Spain,724,Portugal,620,Geographic
+Spain,724,Morocco,504,Geographic
+Sudan,729,Central African Republic,140,Geographic
+Sudan,729,Chad,148,Geographic
+Sudan,729,Egypt,818,Geographic
+Sudan,729,Eritrea,232,Geographic
+Sudan,729,Ethiopia,231,Geographic
+Sudan,729,Libya,434,Geographic
+Sudan,729,South Sudan,728,Geographic
+Suriname,740,Brazil,76,Geographic
+Suriname,740,French Guiana,254,Geographic
+Suriname,740,Guyana,328,Geographic
+Sweden,752,Norway,579,Geographic
+Sweden,752,Finland,246,Geographic
+Switzerland,757,Austria,40,Geographic
+Switzerland,757,France,251,Geographic
+Switzerland,757,Italy,381,Geographic
+Switzerland,757,Germany,276,Geographic
+Syria,760,Iraq,368,Geographic
+Syria,760,Israel,376,Geographic
+Syria,760,Jordan,400,Geographic
+Syria,760,Lebanon,422,Geographic
+Syria,760,Turkey,792,Geographic
+Tajikistan,762,Afghanistan,4,Geographic
+Tajikistan,762,China,156,Geographic
+Tajikistan,762,Kyrgyzstan,417,Geographic
+Tajikistan,762,Uzbekistan,860,Geographic
+Tanzania,834,Burundi,108,Geographic
+Tanzania,834,Democratic Republic of the Congo,180,Geographic
+Tanzania,834,Kenya,404,Geographic
+Tanzania,834,Malawi,454,Geographic
+Tanzania,834,Mozambique,508,Geographic
+Tanzania,834,Rwanda,646,Geographic
+Tanzania,834,Uganda,800,Geographic
+Tanzania,834,Zambia,894,Geographic
+Rwanda,646,Burundi,108,Geographic
+Rwanda,646,Democratic Republic of the Congo,180,Geographic
+Rwanda,646,Tanzania,834,Geographic
+Rwanda,646,Uganda,800,Geographic
+Thailand,764,Myanmar,104,Geographic
+Thailand,764,Cambodia,116,Geographic
+Thailand,764,Laos,418,Geographic
+Thailand,764,Malaysia,458,Geographic
+Timor-Leste,626,Indonesia,360,Geographic
+Togo,768,Benin,204,Geographic
+Togo,768,Burkina Faso,854,Geographic
+Togo,768,Ghana,288,Geographic
+Tunisia,788,Algeria,12,Geographic
+Tunisia,788,Libya,434,Geographic
+Turkey,792,Armenia,51,Geographic
+Turkey,792,Azerbaijan,31,Geographic
+Turkey,792,Bulgaria,100,Geographic
+Turkey,792,Georgia,268,Geographic
+Turkey,792,Greece,300,Geographic
+Turkey,792,Iran,364,Geographic
+Turkey,792,Iraq,368,Geographic
+Turkey,792,Syria,760,Geographic
+Turkmenistan,795,Afghanistan,4,Geographic
+Turkmenistan,795,Iran,364,Geographic
+Turkmenistan,795,Kazakhstan,398,Geographic
+Turkmenistan,795,Uzbekistan,860,Geographic
+Uganda,800,Democratic Republic of the Congo,180,Geographic
+Uganda,800,Kenya,404,Geographic
+Uganda,800,Rwanda,646,Geographic
+Uganda,800,South Sudan,728,Geographic
+Uganda,800,Tanzania,834,Geographic
+Ukraine,804,Belarus,112,Geographic
+Ukraine,804,Hungary,348,Geographic
+Ukraine,804,Moldova,498,Geographic
+Ukraine,804,Poland,616,Geographic
+Ukraine,804,Romania,642,Geographic
+Ukraine,804,Russian Federation,643,Geographic
+Ukraine,804,Slovakia,703,Geographic
+United Arab Emirates,784,Oman,512,Geographic
+United Arab Emirates,784,Saudi Arabia,682,Geographic
+United Kingdom,826,Ireland,372,Geographic
+United States,842,Canada,124,Geographic
+United States,842,Mexico,484,Geographic
+Uruguay,858,Argentina,32,Geographic
+Uruguay,858,Brazil,76,Geographic
+Uzbekistan,860,Afghanistan,4,Geographic
+Uzbekistan,860,Kazakhstan,398,Geographic
+Uzbekistan,860,Kyrgyzstan,417,Geographic
+Uzbekistan,860,Tajikistan,762,Geographic
+Uzbekistan,860,Turkmenistan,795,Geographic
+Venezuela,862,Brazil,76,Geographic
+Venezuela,862,Colombia,170,Geographic
+Venezuela,862,Guyana,328,Geographic
+Vietnam,704,Cambodia,116,Geographic
+Vietnam,704,China,156,Geographic
+Vietnam,704,Laos,418,Geographic
+Western Sahara,732,Algeria,12,Geographic
+Western Sahara,732,Mauritania,478,Geographic
+Western Sahara,732,Morocco,504,Geographic
+Zambia,894,Angola,24,Geographic
+Zambia,894,Botswana,72,Geographic
+Zambia,894,Democratic Republic of the Congo,180,Geographic
+Zambia,894,Malawi,454,Geographic
+Zambia,894,Mozambique,508,Geographic
+Zambia,894,Namibia,516,Geographic
+Zambia,894,Tanzania,834,Geographic
+Zambia,894,Zimbabwe,716,Geographic
+Zimbabwe,716,Botswana,72,Geographic
+Zimbabwe,716,Mozambique,508,Geographic
+Zimbabwe,716,South Africa,710,Geographic
+Zimbabwe,716,Zambia,894,Geographic
+Spain,724,Morocco,504,Infrastructure
+Sweden,752,Denmark,208,Infrastructure
+Italy,381,Malta,470,Infrastructure
+Germany,276,Sweden,752,Infrastructure
+Netherlands,528,United Kingdom,826,Infrastructure
+Estonia,233,Finland,246,Infrastructure
+France,251,United Kingdom,826,Infrastructure
+Italy,381,Greece,300,Infrastructure
+Belgium,56,United Kingdom,826,Infrastructure
+Sweden,752,Lithuania,440,Infrastructure
+Norway,579,Denmark,208,Infrastructure
+Netherlands,528,Norway,579,Infrastructure
+Poland,616,Sweden,752,Infrastructure
+China,156,Hong Kong,334,Geographic
+China,156,Macao,446,Geographic
+Hong Kong,344,China,156,Geographic
+Macao,446,China,156,Geographic
